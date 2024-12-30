@@ -1,6 +1,6 @@
 # VideoSplitter
-```markdown
-# **YEET YOUR VIDEO INTO CHUNKS (The Nya-nya Splitter)** 🎬🐾
+
+# **YEET YOUR VIDEO INTO CHUNKS ** 🎬
 
 Alright, buckle up buttercup. This bad boy right here is gonna take your chunky, dummy-thicc videos and slice ‘em into juicy, snackable pieces. No fluff, no jizz—just pure, unhinged video-chopping action. Let’s get this bread. 😤
 
@@ -24,7 +24,7 @@ First off, you need to set up your rig. Don’t skip this part, or I swear the p
 Download Java, my dude. Grab it here:  
 [Java Download](https://www.oracle.com/java/technologies/javase-downloads.html)  
 Test if it’s vibin’ with:  
-```bash
+
 java --version
 ```  
 
