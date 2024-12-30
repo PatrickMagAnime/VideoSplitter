@@ -20,11 +20,11 @@ Alright, buckle up buttercup. This bad boy right here is gonna take your chunky,
 ## **How to Install This Slice Machine**
 First off, you need to set up your rig. Don’t skip this part, or I swear the program will YEET an error at you so hard you’ll cry.  
 
-### **1. Java - The OG Runtime™**  
+### **1. Java - The OG Runtime**  
 Download Java, my dude. Grab it here:  
 [Java Download](https://www.oracle.com/java/technologies/javase-downloads.html)  
 Test if it’s vibin’ with:  
-
+``` 
 java --version
 ```  
 
@@ -40,7 +40,7 @@ Type `ffmpeg -version` in your terminal to confirm it’s alive. No errors? Cong
 ### **3. Clone This Glorious Code**  
 Pull this repo from the matrix with:  
 ```bash
-git clone [<your-repo-url>](https://github.com/PatrickMagAnime/VideoSplitter.git)
+git clone https://github.com/PatrickMagAnime/VideoSplitter.git
 ```  
 
 ### **4. Run It Like You Own It**  
@@ -50,7 +50,7 @@ git clone [<your-repo-url>](https://github.com/PatrickMagAnime/VideoSplitter.git
 ---
 
 ## **How to Use This Chaos-Machine**  
-Once it’s up and running, follow these steps. It’s idiot-proof. Probably.
+Once it’s up and running, follow these steps. It’s idiot-proof. Probably. I guess...
 
 1. **Toss your video into `Eingabe`**  
    - ONE VIDEO ONLY. If you try to sneak in more, the program’s gonna flip a table and bail.  
@@ -96,7 +96,8 @@ Once it’s up and running, follow these steps. It’s idiot-proof. Probably.
 ### **Stuff To Do Later (aka Wishlist of Dreams)**  
 - Add support for multiple videos.  
 - GUI interface for those who fear the terminal.  
-- Auto-detect codec, FPS, and other nerd stuff.  
+- Auto-detect codec, FPS, and other nerd stuff.
+- Auto uppload to Social Medias (Could be illegal lol)  
 
 ---
 
@@ -108,7 +109,7 @@ Once it’s up and running, follow these steps. It’s idiot-proof. Probably.
 ---
 
 ## **Closing Words of Wisdom**  
-This program’s like a blender for your vids. Use it wisely, or just go nuts. But don’t blame me if your cat walks on your keyboard and deletes your files. Nya~ 🐾  
+This program’s like a blender for your vids. Use it wisely, or just go nuts. But don’t blame me if your cat walks on your keyboard and deletes your files. Nya~   
 
 ---
 
