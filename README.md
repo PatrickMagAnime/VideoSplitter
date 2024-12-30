@@ -40,7 +40,7 @@ Type `ffmpeg -version` in your terminal to confirm it’s alive. No errors? Cong
 ### **3. Clone This Glorious Code**  
 Pull this repo from the matrix with:  
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/PatrickMagAnime/VideoSplitter.git)
 ```  
 
 ### **4. Run It Like You Own It**  
