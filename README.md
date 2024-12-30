@@ -17,7 +17,7 @@ Alright, buckle up buttercup. This bad boy right here is gonna take your chunky,
 
 ---
 
-## **How to Install This Slice Machine™**
+## **How to Install This Slice Machine**
 First off, you need to set up your rig. Don’t skip this part, or I swear the program will YEET an error at you so hard you’ll cry.  
 
 ### **1. Java - The OG Runtime™**  
